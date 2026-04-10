@@ -1,5 +1,15 @@
 # tugas_flutter
+Nama: Siti Naylani Safitri  
+Mata Kuliah: Mobile Programming
 
+## Deskripsi
+Aplikasi form produk sederhana menggunakan Flutter.
+
+## Fitur
+- Input kode produk
+- Input nama produk
+- Input harga produk
+- Menampilkan detail produk
 A new Flutter project.
 
 ## Getting Started
